@@ -1,16 +1,18 @@
 .card {
   font-family: Helvetica, Sans-serif, verdana;
   border: 2px solid  #660066;
-  max-width: 300px;
+  width: 300px;
   box-shadow: 10px 10px 5px 2px  #e0e0eb;
   padding: 5px 11px 10px 10px;
   background-color: #F7F2F7;
 }
-h1{
+
+h1 {
   font-size: x-large;
 }
+
 img {
-  max-width: 300px;
+  width: 300px;
   border: 1px solid #660066;
   border-radius: 3px;
   margin-bottom: 15px;
@@ -21,20 +23,19 @@ img {
   border-radius: 3px;
   text-align: justify;
   padding: 10px;
-  font-size:small;
+  font-size: small;
 }
+
 .facts {
   font-style: italic;
 }
 
 ul {
-  padding-left: 0px;
-}
-.items{
+  padding-left: 0;
   list-style: none;
 }
 
-.labels{
+.labels {
   font-weight: bold;
 }
 
